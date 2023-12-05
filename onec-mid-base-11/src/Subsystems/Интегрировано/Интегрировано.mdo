@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a44ca0ba-674e-4ccb-ab48-6f1a0a913365">
+  <name>Интегрировано</name>
+  <synonym>
+    <key>ru</key>
+    <value>Интегрировано</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.КЛ_КонтактныеЛица</content>
+  <content>Catalog.КЛ_Должности</content>
+</mdclass:Subsystem>
